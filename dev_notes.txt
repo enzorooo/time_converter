@@ -1,0 +1,25 @@
+### Version 1.0  ###
+        1. Create Seconds converter
+            - seconds to minutes
+            - seconds to hours
+            - seconds to days
+            - seconds to years
+
+        2. Create Interface for user to select what unit to convert 
+            - create list of time units to convert (in this case seconds) to enable future updates if necessary
+            - create function that allows user to select the unit to convert
+            - Input Validation of User
+
+        3. Ask for number of Seconds to convert.
+
+        4. Print Results expected by User
+
+    On-going Development: 
+        #3 -    Bug found in input validation. 
+                Input validation would not let it proceed to succeeding function.
+                Input validation would not display invalid message when input is invalid.
+
+
+    To be continued:
+        #3
+        #4
